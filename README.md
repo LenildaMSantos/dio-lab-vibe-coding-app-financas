@@ -327,3 +327,118 @@ Com base neste PRD:
 8. Não adicione funcionalidades complexas que não sejam necessárias para validar a proposta inicial.
 
 Use português do Brasil e linguagem simples.
+```
+
+---
+
+# 🧪 Estratégia de Validação
+
+### Facilidade de registro
+
+Avaliar se um novo usuário consegue registrar sua primeira movimentação rapidamente.
+
+### Taxa de correção da IA
+
+Medir quantas classificações automáticas precisam ser corrigidas.
+
+### Frequência de uso
+
+Verificar se os usuários continuam registrando movimentações ao longo das semanas.
+
+### Utilização das metas
+
+Avaliar quantos usuários criam e acompanham pelo menos uma meta.
+
+### Compreensão financeira
+
+Perguntar aos usuários se o aplicativo ajudou a entender melhor para onde o dinheiro está indo.
+
+---
+
+# 🛠️ Ferramentas do Processo
+
+Ferramentas usadas ou previstas no fluxo do desafio:
+
+- **ChatGPT** — estruturação do conceito, PRD e documentação;
+- **GitHub** — versionamento e entrega do projeto;
+- **GitHub Copilot** — refinamento e experimentação de prompts;
+- **Lovable** — exploração do conceito e do fluxo do MVP.
+
+---
+
+# 📸 Evidências das Interações com IA
+
+Esta seção será atualizada com os registros reais das interações realizadas durante o desafio.
+
+Arquivos previstos:
+
+- `assets/prd.png`
+- `assets/mvp.png`
+- `assets/fluxo-telas.png`
+- `assets/agente-financeiro.png`
+
+---
+
+# 📚 Reflexão sobre o Processo
+
+Até esta etapa, o principal aprendizado foi perceber que trabalhar com Inteligência Artificial não significa simplesmente pedir para uma ferramenta “criar um aplicativo”.
+
+A qualidade da resposta depende muito da qualidade do contexto fornecido.
+
+Um prompt melhor precisa explicar:
+
+- qual problema deve ser resolvido;
+- quem possui esse problema;
+- qual é o objetivo do produto;
+- quais funcionalidades realmente fazem parte do MVP;
+- quais limites devem ser respeitados;
+- qual resultado é esperado da IA.
+
+Também ficou evidente a importância de trabalhar de forma iterativa: usar a IA para analisar a ideia, identificar lacunas, melhorar requisitos e evoluir a solução gradualmente.
+
+O principal aprendizado é que **Vibe Coding não elimina a necessidade de pensar sobre o produto**.
+
+Quanto mais clara for a intenção humana, melhor a IA consegue colaborar na construção da solução.
+
+Esta reflexão será complementada após as interações finais com Copilot e Lovable.
+
+---
+
+# 🔮 Evoluções Futuras
+
+Depois da validação do MVP, o produto poderia evoluir para recursos como:
+
+- identificação de despesas recorrentes;
+- importação automática de dados financeiros mediante integrações autorizadas;
+- alertas personalizados;
+- comparação de períodos;
+- projeções simples de orçamento;
+- maior personalização do agente;
+- acessibilidade ampliada;
+- entrada por voz.
+
+Essas funcionalidades **não fazem parte do MVP inicial**.
+
+---
+
+# ✅ Status do Projeto
+
+**Conceito / MVP em desenvolvimento para o desafio DIO de Vibe Coding.**
+
+O foco desta entrega é demonstrar:
+
+- pensamento de produto;
+- engenharia de prompts;
+- uso estratégico de IA;
+- definição de MVP;
+- documentação;
+- capacidade de transformar um problema em uma proposta estruturada.
+
+---
+
+## 👩‍💻 Autora
+
+**Lenilda M. dos Santos**
+
+Projeto desenvolvido para fins de estudo, prática e portfólio profissional.
+

@@ -368,14 +368,49 @@ Ferramentas usadas ou previstas no fluxo do desafio:
 
 # 📸 Evidências das Interações com IA
 
-Esta seção será atualizada com os registros reais das interações realizadas durante o desafio.
+A seguir estão algumas evidências do processo de criação e exploração do **MeuFluxo IA** utilizando ferramentas de Inteligência Artificial.
 
-Arquivos previstos:
+## 🧠 Refinamento do PRD com IA
 
-- `assets/prd.png`
-- `assets/mvp.png`
-- `assets/fluxo-telas.png`
-- `assets/agente-financeiro.png`
+O conceito inicial e os requisitos do produto foram analisados e refinados com apoio de IA, buscando manter o escopo adequado para um MVP.
+
+![Refinamento do PRD](assets/prd.png)
+
+---
+
+## 🏠 Home / Dashboard do MVP
+
+A tela principal apresenta uma visão simplificada da situação financeira, incluindo saldo, receitas, despesas, principais categorias, metas e um insight gerado pelo agente.
+
+![Dashboard do MeuFluxo IA](assets/mvp.png)
+
+---
+
+## 💳 Histórico de Transações
+
+A área de transações organiza receitas e despesas e permite visualizar a categoria atribuída a cada movimentação.
+
+O usuário também pode corrigir uma classificação quando necessário.
+
+![Transações do MeuFluxo IA](assets/transacoes.png)
+
+---
+
+## 🎯 Metas Financeiras
+
+As metas podem ser criadas utilizando linguagem natural e acompanhadas por meio do progresso percentual e dos valores acumulados.
+
+![Metas do MeuFluxo IA](assets/metas.png)
+
+---
+
+## 🤖 Agente Financeiro Educativo
+
+O agente apresenta observações simples baseadas exclusivamente nos registros financeiros existentes.
+
+A proposta é ajudar o usuário a compreender seus próprios dados de maneira clara, educativa e não julgadora.
+
+![Agente Financeiro do MeuFluxo IA](assets/agente-financeiro.png)
 
 ---
 

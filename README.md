@@ -6,7 +6,7 @@ Projeto desenvolvido para o desafio **App de Organização de Finanças Pessoais
 
 O objetivo é aplicar conceitos de **Vibe Coding, Inteligência Artificial, engenharia de prompts, definição de PRD e MVP**, transformando uma ideia de produto em uma proposta clara, estruturada e pronta para ser explorada com ferramentas de IA.
 
-> **Status:** conceito e PRD estruturados. As evidências das interações com Copilot/Lovable serão adicionadas ao longo da execução do desafio.
+> Status: desafio concluído, com PRD, MVP conceitual e evidências das interações com IA documentados.
 
 ---
 
@@ -435,7 +435,7 @@ O principal aprendizado é que **Vibe Coding não elimina a necessidade de pensa
 
 Quanto mais clara for a intenção humana, melhor a IA consegue colaborar na construção da solução.
 
-Esta reflexão será complementada após as interações finais com Copilot e Lovable.
+
 
 ---
 
@@ -458,7 +458,7 @@ Essas funcionalidades **não fazem parte do MVP inicial**.
 
 # ✅ Status do Projeto
 
-**Conceito / MVP em desenvolvimento para o desafio DIO de Vibe Coding.**
+**Conceito / MVP concluído para o desafio DIO de Vibe Coding.**
 
 O foco desta entrega é demonstrar:
 
